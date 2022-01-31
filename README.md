@@ -1,1 +1,1 @@
-# Trex-Color
+# T-Rex-Runner-Color
